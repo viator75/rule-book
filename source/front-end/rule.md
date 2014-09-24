@@ -4,21 +4,16 @@
 Views
 Images
 sass
-_component.sass
-_layout.sass
-_
+stylesheets
 
 
-
-
-|    資料夾    |                                   | 
-|:-----------:|:----------------------------------|
-| Views       | 放置html.erb畫面                   |
-| Images      | 放置圖片，附檔名一律使用小寫。          |
-| sass        | Co-founder & Frontend Developer   |
-| stylesheets | Co-founder & Backend Developer    |
-| js          | Co-founder & Backend Developer    |
-| lib	      | Co-founder & Backend Developer    |
-| videos      | Co-founder & Backend Developer    |
-| stylesheets | Co-founder & Backend Developer    |
+|    資料夾    |                                     | 
+|:-----------:|:------------------------------------|
+| Views       | 放置html.erb畫面                     |
+| Images      | 放置圖片，檔名一律使用小寫。            |
+| sass        | 放置sass與scss檔案，style一律在此編輯  |
+| stylesheets | 放置style檔案，此檔案不編輯。          |
+| js          | 放置js檔案                           |
+| lib	      | 放置lib或套件檔案                     |
+| videos      | 放置影片檔案                          |
 

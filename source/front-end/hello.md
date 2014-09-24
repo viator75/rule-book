@@ -1,29 +1,24 @@
 #前端工程師指南
 ---
 ##我們期待的前端
-前端的工作主要為
-分成設計師與工程師
-interaction design
-visual design
-與backend溝通
-與designer溝通
+前端的工作可分成設計師與工程師，
+但中間不一定有明確界線，
+前端的工作主要為view部分的互動、與backend或Designer溝通。
 
 
 
-共同技能
-Styling Language: CSS, sass
-Framework: bootstrap, Foundation, 
-Github
+基本技能
 
-偏工程類
-Templating Language: ruby
-Ajax
-Javascript
-jQuery
-Anglar.js
-Gulp.js
+1. Styling language：CSS, SASS...
+2. Styling framework/tools：SUSY, Compass...
+3. JavaScript
+4. JavaScript framework/libruary：Jquery, Angular.js...
+5. Tools：gulp.js, guard-livreload
+6. Rails front-end gem usage
+7. Ruby on Rails file structure
+8. UX design pattern
+9. Github
 
 
-偏設計類
-UX design, sketching, prototyping, mockup
+http://semver.org/lang/zh-TW/
 ---
